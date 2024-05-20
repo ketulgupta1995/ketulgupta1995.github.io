@@ -1,8 +1,9 @@
 ---
 layout: default
+title : A simple way to shsare and grow by Ketul Gupta.
 ---
 
-# Blogs
+## Blogs
 
 I write every week to share what i learnt and sometimes my views on topics not related to engineering.
 
