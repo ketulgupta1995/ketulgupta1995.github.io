@@ -1,6 +1,6 @@
 ---
 layout: default
-title : A simple way to shsare and grow by Ketul Gupta.
+title : A simple way to share and grow by Ketul Gupta.
 ---
 
 ## Blogs
