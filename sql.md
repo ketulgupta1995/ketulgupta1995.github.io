@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: SQL cumalative sum 
+description: This is page to share interesting sql queires 
 ---
 
-## Welcome to another page
+## 
 
-_yay_ **bold**
+#### how to find cumalative sum in sql ?
+
+
 
 [back](./)
